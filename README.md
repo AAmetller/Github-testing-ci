@@ -9,3 +9,5 @@ This repository has just 5 basic commits on master by three different coders, pr
 * Filtering `git log` with `--author` option
 
 I modified the readme.
+
+Added a crazy idea about parallel universes.
